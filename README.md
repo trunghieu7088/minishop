@@ -1,8 +1,9 @@
 Minishop Theme
 
 DEMO:
-https://shop.hieubinh.com \n
+https://shop.hieubinh.com <br>
 admin
+<br>
 sy3m&ukoQ3ZeGW^sID
 
 Description
